@@ -98,8 +98,11 @@ nav a:hover{
     padding-bottom: 6%;
 }
 .bio{
-    text-align: center;
-    color: rgb(44, 43, 43);   
+    text-align: justify;
+    color: rgb(44, 43, 43); 
+    width:60%;
+    position: relative;
+    left: 140px;  
 }
 .profile{
     float: left;
@@ -350,7 +353,7 @@ h1{
     .bio{
         text-align: justify;
         padding-left: 13px;
-        padding-right: 13px;
+        padding-right: 13px; 
     }
     
     .skills{
